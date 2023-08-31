@@ -1,0 +1,51 @@
+(ExpressProject "IRANPOUR_AZ6-PISHGOZARESH"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\iranpour_az6-pishgozaresh.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Outputs"
+    (File ".\iranpour_az6-pishgozaresh-schematic1.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile
+         ".\iranpour_az6-pishgozaresh-schematic1-iranpour_az6-pishgozaresh.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\iranpour_az6-pishgozaresh-schematic1-iranpour_az6-pishgozaresh.sim"
+        (DisplayName "SCHEMATIC1-IRANPOUR_AZ6-PISHGOZARESH")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 347"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 199 1319 -1 540")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ZAHRAIRANPOUR\DESKTOP\TERM 6\AZ ELEC\6\SIMULATION\IRANPOUR_AZ6-PISHGOZARESH.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

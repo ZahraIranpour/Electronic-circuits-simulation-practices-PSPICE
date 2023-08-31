@@ -1,0 +1,50 @@
+(ExpressProject "iranpour_az3_33_3"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\iranpour_az3_33_3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Outputs"
+    (File ".\iranpour_az3_33_3-schematic1.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\iranpour_az3_33_3-schematic1-iranpour_az3_33_3.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\iranpour_az3_33_3-schematic1-iranpour_az3_33_3.sim"
+        (DisplayName "SCHEMATIC1-iranpour_az3_33_3")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (0
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\ZahraIranpour\Desktop\term 6\az elec\3\simulations\IRANPOUR_AZ3_33_3\iranpour_az3_33_3.dsn")
+      (Path "Design Resources"
+         "C:\Users\ZahraIranpour\Desktop\term 6\az elec\3\simulations\IRANPOUR_AZ3_33_3\iranpour_az3_33_3.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\ZahraIranpour\Desktop\term 6\az elec\3\simulations\IRANPOUR_AZ3_33_3\iranpour_az3_33_3.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 219 0 347"))
+      (Tab 0))))
